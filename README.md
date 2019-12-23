@@ -46,6 +46,8 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data:
 https://www.cs.cmu.edu/~jiweil/html/hotel-review.html
-I got this dataset from a PhD NLP researcher’s website. He webscrapped 878,561 reviews from 4333 hotels crawled from TripAdvisor. Since it might take a long time to run the model, I narrow my scope down, and only look at the reviews from Seattle hotels. 
+
+
+I got this dataset from an NLP researcher Jiwei Li's website. He webscrapped 878,561 reviews from 4333 hotels crawled from TripAdvisor. Since it might take a long time to run the model, I narrow my scope down, and only look at the reviews from Seattle hotels. 
 
 
