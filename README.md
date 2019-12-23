@@ -15,7 +15,7 @@ I used Tableau to create a demo. In the Tableau app, each dot represents a hotel
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/44122973/71383108-b676a000-258f-11ea-8434-ed6d527493b4.gif)
 
 
-As you can tell, from this demo, imploying nlp technique and logistic regression to extract pros and cons can give great results. The technique I used here can be applied to pretty much anything that has reviews data. we can not only help the users make decision on any ecommerce site, we can also help suppliers gain more informative feedback so that they can make improvements. Also, we can help the dis’-tri-butors to increase customer retention rate by building a more user friendly platform. Happy users, happy companies. win win!
+As you can tell, from this demo, imploying nlp technique and logistic regression to extract pros and cons can give great results. The technique I used here can be applied to pretty much anything that has reviews data. we can not only help the users make decision on any ecommerce site, we can also help suppliers gain more informative feedback so that they can make improvements. Also, we can help the distributors to increase customer retention rate by building a more user friendly platform. Happy users, happy companies. Win win!
 
 
 ### Install
